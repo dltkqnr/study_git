@@ -1,0 +1,5 @@
+1
+2
+3
+4
+git commit -am "" // add와 commit message 동시에 가능 

@@ -1,0 +1,26 @@
+git commandx
+
+git init: Initialize repository
+.git : git repository
+git status : working tree status
+git add : add to staging area
+git commit : create version
+git log : show version
+git log --stat
+git diff : show changes
+git log -p
+git checkout
+git reset
+
+
+
+--------------------
+
+
+working tree  : 파일을 수정한 곳, 수정한 파일들
+
+staging area : 버전을 만들려는 파일들
+
+repository : 만들어진 버전이 저장되는 곳
+
+
