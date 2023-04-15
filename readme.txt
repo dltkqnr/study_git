@@ -38,4 +38,7 @@ base : branch가 쪼개져 나갈 때의 공통의 조상
 
 -mergetool 을 이용한 병합
 
-p4merge를 통해 보다 시각적으로 편하게 병합할 수 있음.
+mergetool로 vscode를 이용하여 보다 시각적으로 conflict 부분 해결가능.
+
+
+
